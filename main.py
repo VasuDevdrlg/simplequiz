@@ -1,6 +1,6 @@
 path = "welcome.txt"
 wel = open(path, "r")
-qs1 = open("Q1", "r")
+qs1 = open("questions.txt", "r")
 #ans=open("Q2","r")
 questions=qs1.read().split(",")
 cscore=0
