@@ -1,4 +1,4 @@
-path = r"C:\Users\vasu dev\OneDrive\Desktop\VASU\hello.txt"
+path = "welcome.txt"
 wel = open(path, "r")
 qs1 = open("Q1", "r")
 #ans=open("Q2","r")
