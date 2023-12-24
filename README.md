@@ -1,2 +1,2 @@
-# simplequiz
-It is a Simple quiz program loaded with 5 questions
+# SimpleQuiz
+It is a Simple quiz program loaded with 5 quiz questions
